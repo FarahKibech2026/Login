@@ -1,0 +1,6 @@
+{
+  "recettes": [
+    {"nom": "Slade de pomme", "ingedients":"pomme, huile d’olive" },
+    {"nom": "Poulet Grillé", "ingrédients": "riz, poulet"}
+  ]
+}
